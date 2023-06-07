@@ -1,16 +1,14 @@
 ### Hi there 👋
+<hr>
 
-<!--
-**suman0309/suman0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### social media
+<a href='https://www.linkedin.com/in/swayampakula-v-s-s-pavanakasinadhasarma-90634920b/' target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href='https://twitter.com/VKasinadha'><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href='https://www.instagram.com/skasinadh/'><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href='https://discord.com/channels/kasi353l#5498'><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-discord-social-media-justicon-lineal-color-justicon.png"/></a>
 
-Here are some ideas to get you started:
+</hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+![my github Metrics](github-metrics.svg)
+</hr>
